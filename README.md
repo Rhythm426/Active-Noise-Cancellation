@@ -1,4 +1,4 @@
-# Active-Noise-Cancellation
+##  Active-Noise-Cancellation
 A study of various LMS Algorithms like FxLMS, FuLMS and Bilinear FxLMS in MATLAB.
 
 **LMS(Least Mean Squared):** The basic Active Noise Control algorithm.
